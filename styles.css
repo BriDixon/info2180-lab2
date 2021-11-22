@@ -1,0 +1,43 @@
+img {
+    
+    height:200px;
+    width: 200px;
+    border-radius: 50%;
+    text-align: center;
+    
+}
+
+.container{
+    text-align: center;
+    background-color: pink;
+    font-style: oblique; 
+
+}
+
+.content{
+    margin: 50px;
+    float: left;
+}
+
+
+.blog{
+    margin: 50px;
+    float: left;
+}
+
+
+aside{
+    float: right;
+    background-color: peachpuff;
+    margin: 75px;
+
+}
+
+h3{
+    color: red;
+}
+
+footer{
+    background-color: pink;
+    
+}
